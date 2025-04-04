@@ -1,0 +1,15 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Repository used for learning and practicing Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc **/**.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
